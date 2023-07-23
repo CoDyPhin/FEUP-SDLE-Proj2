@@ -1,6 +1,6 @@
 # SDLE Project
 
-**SDLE Project for group T4G17**
+**SDLE Project for group T4G17 (2021/2022)**
 
 Group members:
 
